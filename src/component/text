@@ -1,0 +1,15 @@
+
+const handleUpClick=()=>{
+    console.log("uppercase was click");
+  }
+  const handleOnChange=()=>{
+    console.log("uppercase click");
+  }
+  setText("j");
+ 
+
+ onchange={handleOnChange}
+onClick={handleUpClick}
+
+
+
